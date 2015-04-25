@@ -43,9 +43,3 @@ group :development, :test do
   gem 'spring'
 end
 
-gem "therubyracer"
-gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
-gem "twitter-bootstrap-rails"
-gem 'twitter-bootswatch-rails', '~> 3.3.2'
-gem 'twitter-bootswatch-rails-helpers'
-
